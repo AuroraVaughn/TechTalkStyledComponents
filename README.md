@@ -1,2 +1,0 @@
-# TechTalkStyledComponents
-Created with CodeSandbox
